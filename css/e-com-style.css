@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* Top Menu */
+
+.top-menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 20px;
+    width: 1208px;
+ 
+
+}
+
+.top-menu li{
+    display: inline;
+    color: grey;
+    padding: 5px;
+}
+
+
+/* middle-menu */
+
+.middle-menu{
+    width: 100%;
+}
